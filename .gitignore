@@ -27,6 +27,12 @@
 *.lib
 
 # Executables
-*.exe
-*.out
+#*.exe
+#*.out
+# We need Executables in this repo
 *.app
+
+# IDE Files
+*.replit
+*.cbp
+*.iml
